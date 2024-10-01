@@ -1,4 +1,9 @@
- 
+# QUEEN_MARIA
+   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ QUEEN_+MARIA+★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+ABBY+TECH;RELEASED+DATE+30%2F9%2F2024;PLEASE+SUBSCRIBE+TO+OUR;CHANNEL;https://whatsapp.com/;channel/0029VahOucpCcW4;s1Zk3O61A+." alt="Typing SVG" /></a>
+  
  ## Deployment Methods
 
 ### 1. FORK THIS REPO
@@ -7,7 +12,7 @@
 
 ### 2. GET SESSION ID HERE
  
-<a href="https://apppp-4a1971b28792.herokuapp.com/pair"><img src="https://img.shields.io/badge/QR CODE-green" alt="Click Here to Get QR-Code" width="90"></a>
+<a href="https://nikkapair.onrender.com/pair"><img src="https://img.shields.io/badge/QR CODE-green" alt="Click Here to Get QR-Code" width="90"></a>
 
 
 ### DEPLOY ON RENDER
@@ -46,10 +51,11 @@
 SUPPORT CHANNEL: <a href="[https://whatsapp.com/channel/0029VaqgxNt5q08c9XMItG3P)"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 
+
+<a href="https://wa.me/2347032411938"><img src="https://img.shields.io/badge/Contact Abby-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 ### Please Give One Star ✨ & [follow me notify my updates 💗](https://github.com/abbybots141)
 <b>Version -> 1.0.0</b>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
   ## ENJOY!!!;
-// credits Haki
