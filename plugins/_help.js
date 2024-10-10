@@ -35,16 +35,16 @@ smd(
 ╰┈➤Nᴜᴍ - ${owner.split(",")[0]} 
 ╰┈➤Mᴇᴍᴏ - ${formatp(os.totalmem() - os.freemem())} 
       \n *qᴜᴇᴇɴ✿︎ᴍᴀʀɪᴀ*\n\n ${readmore} 
-╭──👉 *ALL MENU* 👈 
-│☾︎╰┈➤☽︎ 𝕃ist
-│☾︎╰┈➤☽︎ ℂategory
-│☾︎╰┈➤☽︎ ℍelp 
-│☾︎╰┈➤☽︎ 𝔸live 
-│☾︎╰┈➤☽︎ 𝕌ptime 
-│╰┈➤╰┈➤☽︎ 𝕎eather
-│☾︎╰┈➤☽︎ 𝕃ino 
-│☾︎╰┈➤☽︎ ℂpu
-│☾︎╰┈➤☽︎ ℝepo
+╭──👑 *ALL MENU* 👑 
+╰┈➤☽︎ 𝕃ist
+╰┈➤☽︎ ℂategory
+╰┈➤☽︎ ℍelp 
+╰┈➤☽︎ 𝔸live 
+╰┈➤☽︎ 𝕌ptime 
+╰┈➤☽︎ 𝕎eather
+╰┈➤☽︎ 𝕃ino 
+╰┈➤☽︎ ℂpu
+╰┈➤☽︎ ℝepo
 ╰─────────────⦁`.trim();
       return await message.bot.sendUi(message.from, { caption: menuMessage });
     } catch (error) {
@@ -502,7 +502,7 @@ astro_patch.smd(
       // Define subowners list
       const subowners = [
         { name: "Subowner1", waid: "2349112171078" },
-        { name: "Subowner2", waid: "263710405675" }
+        { name: "Subowner2", waid: "263710405675" },
         { name: "Subowner3", waid "2349123721026"}
        ];
 
